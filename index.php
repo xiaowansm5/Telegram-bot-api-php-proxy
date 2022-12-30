@@ -3,6 +3,7 @@
 <head>
 	<!-- UI from here: https://codepen.io/FlorinPop17/pen/dyPvNKK -->
 	<title>Telegram Bot API Proxy</title>
+	<link rel="icon" href="https://cdn.staticaly.com/gh/xiaowansm5/img@master/logo/telegram.3b3qa2l7qwg0.webp">
 	<style type="text/css">
 		@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
 
@@ -128,13 +129,13 @@
 			<div class="course-preview">
 				<h6>Used for</h6>
 				<h2>TelegramRC Bot</h2>
-				<a href="https://tssaltan.top/?p=1928&utm_source=proxy">About TelegramRC Bot</a>
+				<a target="_blank" href="https://tssaltan.top/?p=1928&utm_source=proxy">About TelegramRC Bot</a>
 			</div>
 			<div class="course-info">
 				<h6>What is it?</h6>
 				<h2>Proxy for Telegram Bot API</h2>
 				<p>URI for using this proxy: <b id="domain" onclick="selectText(this)">https://<?php echo $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI']; ?></b></p>
-				<a class="btn" href="https://github.com/TsSaltan/Telegram-bot-api-php-proxy">View at GitHub</a>
+				<a class="btn" href="https://blog.w2aa.ga/" target="_blank">时光's Blog</a>
 			</div>
 		</div>
 	</div>
