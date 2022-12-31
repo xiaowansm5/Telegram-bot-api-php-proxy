@@ -6,7 +6,7 @@
 * SSL
 
 ## Demo
-[View demo](https://tg-bot-api.tssaltan.top/)
+[View demo](https://tg.w2aa.ga/)
 
 ## Special for
 * [TelegramRC Bot](https://tssaltan.top/?p=1928&utm_source=github)
